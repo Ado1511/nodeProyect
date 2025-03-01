@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Overview</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>API Overview</h1>
+    </header>
+    <div class="container">
+        <p>Welcome to the API for managing users and cards. Below is a brief description of the available endpoints:</p>
+        <h2>Users API</h2>
+        <ul>
+            <li><strong>GET <code>/users</code></strong>: Retrieve all users (admin only).</li>
+            <li><strong>GET <code>/users/:id</code></strong>: View details for a specific user.</li>
+            <li><strong>POST <code>/users/register</code></strong>: Register a new user.</li>
+            <li><strong>POST <code>/users/login</code></strong>: Login an existing user.</li>
+            <li><strong>PUT <code>/users/:id</code></strong>: Update user details.</li>
+            <li><strong>DELETE <code>/users/:id</code></strong>: Delete a user.</li>
+        </ul>
+        <p>For more information, visit the <a href="https://documenter.getpostman.com/view/40123570/2sAYQXns3r"
+                target="_blank">Users Postman documentation</a>.</p>
+
+        <h2>Cards API</h2>
+        <ul>
+            <li><strong>GET <code>/cards</code></strong>: Retrieve all cards.</li>
+            <li><strong>GET <code>/cards/:id</code></strong>: View details of a specific card.</li>
+            <li><strong>POST <code>/cards</code></strong>: Create a new card (business only).</li>
+            <li><strong>PUT <code>/cards/:id</code></strong>: Update a card.</li>
+            <li><strong>DELETE <code>/cards/:id</code></strong>: Delete a card.</li>
+            <li><strong>PATCH <code>/cards/:id</code></strong>: Like or unlike a card.</li>
+        </ul>
+
+        <p>For more information, visit the <a
+                href="https://documenter.getpostman.com/view/40123570/2sAYQXpYTY#a1205583-76cf-4eab-8410-3d8a3bb1e02f"
+                target="_blank">Cards Postman documentation</a>.</p>
+
+
+    </div>
+    <footer>
+        <p>API Documentation © 2025</p>
+    </footer>
+</body>
+
+</html>

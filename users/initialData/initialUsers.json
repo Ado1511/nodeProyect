@@ -1,0 +1,74 @@
+[
+    {
+        "name": {
+            "first": "John",
+            "middle": "D.",
+            "last": "Smith"
+        },
+        "image": {
+            "url": "",
+            "alt": ""
+        },
+        "isBusiness": true,
+            "isAdmin": true,
+        "email": "admin123@gmail.com",
+        "password": "Xyz!456Xyz",
+        "address": {
+            "street": "123 Ocean Drive",
+            "city": "New York",
+            "state": "New York",
+            "zip": 10002,
+            "country": "United States",
+            "houseNumber": "56"
+        },
+        "phone": "0112345678"
+    },
+    {
+        "name": {
+            "first": "David",
+            "middle": "M.",
+            "last": "Lee"
+        },
+        "image": {
+            "url": "",
+            "alt": ""
+        },
+        "isBusiness": true,
+        "isAdmin": false,
+        "email": "david.lee@gmail.com",
+        "password": "hashedPassword456@",
+        "address": {
+            "street": "456 Birch Avenue",
+            "city": "Berlin",
+            "state": "",
+            "zip": 23456,
+            "country": "Germany",
+            "houseNumber": "456"
+        },
+        "phone": "017-123-4567"
+    },
+    {
+        "name": {
+            "first": "Emma",
+            "middle": "J.",
+            "last": "Williams"
+        },
+        "image": {
+            "url": "",
+            "alt": ""
+        },
+        "isBusiness": false,
+        "isAdmin": false,
+        "email": "emma.williams@mail.com",
+        "password": "hashedPassword789@",
+        "address": {
+            "street": "789 Maple Road",
+            "city": "Tel Aviv",
+            "state": "",
+            "zip": 34567,
+            "country": "Israel",
+            "houseNumber": "789"
+        },
+        "phone": "054-987-6543"
+    }
+]

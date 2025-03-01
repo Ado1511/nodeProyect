@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Football Legends Club",
+        "subtitle": "Celebrating the Greatest Moments in Football",
+        "description": "Join us to relive the most legendary moments in football history. Stay connected with match updates, fan events, and exclusive content about your favorite teams and players.",
+        "phone": "051-320-8745",
+        "email": "contact@footballlegends.com",
+        "address": {
+            "street": "Goal Street",
+            "city": "Madrid",
+            "zip": 28010,
+            "country": "Spain",
+            "houseNumber": "7"
+        },
+        "bizNumber": 111511,
+        "userId": "6782070313b75074dc61fa59"
+    },
+    {
+        "title": "Jaguar Enthusiasts Hub",
+        "subtitle": "The Ultimate Jaguar Car Community",
+        "description": "A space for Jaguar car lovers to explore the brand's history, discuss classic and modern models, and stay up to date with the latest innovations in luxury automotive design.",
+        "phone": "053-478-9652",
+        "email": "info@jaguarenthusiasts.com",
+        "address": {
+            "street": "Jaguar Drive",
+            "city": "Coventry",
+            "zip": "CV3 4LF",
+            "country": "UK",
+            "houseNumber": "12"
+        },
+        "bizNumber": 151115,
+        "userId": "6782070313b75074dc61fa59"
+    },
+    {
+        "title": "Homemade Delights",
+        "subtitle": "Bringing the Comfort of Home Cooking to Your Table",
+        "description": "Discover the joy of homemade meals with our selection of traditional, heartwarming recipes. From classic family dishes to new creative flavors, enjoy the true taste of home.",
+        "phone": "055-421-7896",
+        "email": "contact@homemadedelights.com",
+        "address": {
+            "street": "Culinary Avenue",
+            "city": "Boston",
+            "zip": "02108",
+            "country": "USA",
+            "houseNumber": "5B"
+        },
+        "bizNumber": 151195,
+        "userId": "6782070313b75074dc61fa59"
+    }
+]
